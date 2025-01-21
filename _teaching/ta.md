@@ -2,7 +2,7 @@
 title: "Teaching Assistant, Statistics with Applications"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-teaching
+permalink: /teaching/ta
 venue: "Cal Poly Pomona, Department of Mathematics and Statistics"
 date: 2022-07-01
 location: "Pomona, USA"
