@@ -273,12 +273,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _endorsement
   - scope:
       path: ""
-      type: talks
+      type: endorsement
     values:
-      layout: talk
+      layout: endorsement
       author_profile: true
       share: true
 
