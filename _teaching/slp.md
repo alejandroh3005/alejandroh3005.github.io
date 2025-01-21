@@ -1,7 +1,7 @@
 ---
-title: "Team Leader, Semester-Long Project"
+title: "Team Leader, Semester-Long Projects"
 collection: teaching
-type: "Coding workshop"
+type: "Coding workshops"
 permalink: /teaching/slp
 venue: "Cal Poly Pomona, sheCodes Club"
 date: 2022-07-01
