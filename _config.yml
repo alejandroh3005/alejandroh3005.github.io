@@ -21,7 +21,7 @@ repository               : "alejandroh3005/alejandroh3005.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Alejandro Hernandez"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "biostatistician 📊, R enthusiast 💻, completing graduate studies at UW 🌸🐞"
