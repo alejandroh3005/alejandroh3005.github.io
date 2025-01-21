@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! Let me show you who I am and what I do!"
+title: "welcome! let me show you who I am & what I do ~"
 author_profile: true
 redirect_from: 
   - /about/
