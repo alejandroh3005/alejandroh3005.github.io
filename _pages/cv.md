@@ -11,25 +11,37 @@ redirect_from:
 
 Education
 ======
-* M.S. in Biostatistics, University of Washington, 2025 (expected)
-* B.S. in Computer Science, California State Polytechnic University, 2012
+* **University of Washington**, Seattle WA
+  * M.S. in Biostatistics, expected March 2025
+  * Pathway: Data Science
 
-Work experience
+* **California State Polytechnic University**, Pomona CA
+  * B.S. in Computer Science, 2023
+  * Minor: Statistics
+  * Summa Cum Laude
+
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024, June: Research Assistant $\cdot$ 7 months
+  * The Mountain-Whisper-Light
+  * Duties included: In collaboration with a professional statistician, I conducted independent research relating to the Innocence Project and the incarceration of innocent people in the United States. Studying the National Registry of Exonerations, my focus was on identifying prevalent intersectional profiles of race, age at conviction, and type of crime.
+  * Supervisor: Nayak Polissar, PhD.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023, November: Committee Assistant $\cdot$ 8 months
+  * Department of Biostatistics, University of Washington
+  * Duties included: Conducted a departmental survey on social climate, authored a comprehensive report and presented findings to administrators. The results brought attention to experiences of minority students and lead to productive community workshops on cultural diversity and resources guiding student access of mental health services.
+  * Supervisor: Minh Vo
+
+* 2022, August: Teaching Assistant $\cdot$ 9 months
+  * Department of Mathematics and Statistics, Cal Poly Pomona
+  * Duties included: Tutored over 36 undergraduates in introductory statistics, fostering improved comprehension and performance; collaborated with professors to address student needs, offering actionable feedback on curriculum and teaching strategy.
+  * Supervisor: Jimmy Risk, PhD.
+ 
+* 2022, March: Research Assistant $\cdot$ 1 year 3 months
+  * Department of Computer Science, Cal Poly Pomona
+  * Duties included: Studied crop suitability modeling and precision agriculture through a machine learning model designed to maximize informational entropy, known as MaxEnt. I designed parallel implementations of the MaxEnt algorithm to estimate suitable locations for popular crops in California, given raster maps of climate data.I presented our progress at Cal Poly Pomona's College of Science symposium and the 2022 Southern California Conferences of Undergraduate Research (SCCUR)..
+  * Supervisor: John Korah, PhD.
   
 Skills
 ======
