@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Portfolio"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Alejandro Hernandez"
 description              : &description "biostatistician 📊, R enthusiast 💻, completing graduate studies at UW 🌸🐞"
