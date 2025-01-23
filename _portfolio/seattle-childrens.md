@@ -1,6 +1,6 @@
 ---
-title: "Trends in Mental Health Comorbidities Among Substance-Related Visit to a Children’s Hospitals, 2016-2012"
-excerpt: "Analysis of the Pediatric Health Information System database<br/><img src='/images/500x300.png'>"
+title: "Trends in Mental Health Comorbidities Among Substance-Related Visit to Children’s Hospitals, 2016-2021"
+excerpt: "Analysis of the Pediatric Health Information System<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
