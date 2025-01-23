@@ -1,7 +1,7 @@
 ---
 title: "Cindy Elder"
-collection: endorsement
-type: "endorsement"
+collection: endorsements
+type: "Endorsement"
 permalink: /endorsement/elder
 venue: "University of Washington, Department of Washington"
 date: 2024-08-26
