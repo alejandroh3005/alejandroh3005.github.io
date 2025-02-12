@@ -26,7 +26,7 @@ Experience
 * Summer 2024: **Research Assistant** ▪ 7 months
   * The Mountain-Whisper-Light
   * Duties included: In collaboration with a professional statistician, I conducted independent research relating to the Innocence Project and the incarceration of innocent people in the United States. Studying the National Registry of Exonerations, my focus was on identifying prevalent intersectional profiles of race, age at conviction, and type of crime.
-  * Supervisor: Nayak Polissar, PhD.
+  * Supervisor: Nayak Polissar, PhD
 
 * Autumn 2023: **Committee Assistant** ▪ 8 months
   * Department of Biostatistics, University of Washington
@@ -36,7 +36,7 @@ Experience
 * Autumn 2022: **Teaching Assistant** ▪ 9 months
   * Department of Mathematics and Statistics, Cal Poly Pomona
   * Duties included: Tutored over 36 undergraduates in introductory statistics, fostering improved comprehension and performance; collaborated with professors to address student needs, offering actionable feedback on curriculum and teaching strategy.
-  * Supervisor: Jimmy Risk, PhD.
+  * Supervisor: Jimmy Risk, PhD
  
 * Spring 2022: **Research Assistant** ▪ 1 year 3 months
   * Department of Computer Science, Cal Poly Pomona

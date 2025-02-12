@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "welcome! 🐞 discover who I am & what I do ~"
+title: "Welcome to my website 🐞 "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-In short, I am a biostatistician with excellent people skills and a background in software engineering. I have expertise with data visualization, statistical modeling, project management, public speaking, and software documentation in collaborative settings. My passion is the application of statistics in public health to drive evidence-based decisions and contribute to improved healthcare outcomes.
+If you are wanting to discover who I am and what I do, you've come to the right place! 
+
+Professionally, I am a biostatistician with excellent people skills and a background in software engineering. I have expertise with data visualization, statistical modeling, project management, public speaking, and software documentation in collaborative settings. My passion is the application of statistics in public health to drive evidence-based decisions and contribute to improved healthcare outcomes.
+
+Personally, I am a bright and curious person who loves to learn new science and help people. I love listening to music and spending time with my partner and writing mediocre poetry about her. I love calling my family!
 
 🌱 where I come from:
 ======
