@@ -13,7 +13,7 @@ I am a biostatistician and graduate student at the University of Washington, Sea
 
 *Software*: Statistics {R, SAS, Python}, Version control {git}, Database management {SQL}, Data Visualization {Tableau, PowerBI}
 
-![](images/100_0287.JPG){}
+![](images/100_0287.JPG)
 
 *Snag Flat, a stand of old-growth trees on Mount Si, in January*
 
