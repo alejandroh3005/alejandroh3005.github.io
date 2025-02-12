@@ -11,26 +11,30 @@ I am a biostatistician and graduate student at the University of Washington, Sea
 
 I look forward to entering the industry---applied statistics is fabulous work! I love to encounter new problems and learn new science, and I love to help people.
 
-*Special interests*: observational studies, longitudinal and survival analysis, spatial mapping, causal inference.
+*Special interests*: Longitudinal and survival analysis, spatial disease mapping, causal inference in observational studies
 
-*Software*: Statistics {R, SAS, Python}, Version control {git}, Database management {SQL}, Data Visualization {Tableau, PowerBI}.
+*Software*: Statistics {R, SAS, Python}, Version control {git}, Database management {SQL}, Data Visualization {Tableau, PowerBI}
 
-![](images/100_0287.JPG)
+![Snag Flat, a stand of old-growth trees on Mount Si, in January](images/100_0287.JPG)
 
 # I come from the Computer Science field
 
 Halfway through my undergraduate Computer Science degree, I had grown distant from the algorithms and architecture. I liked programming and recognized CS applications were important, but imagining a future as a software engineer felt like a poor fit. I wanted to lean into Data Science and peek behind the curtain of machine learning, so I began a Statistics minor. Those early semesters were very humbling, but class kept me engaged and peers motivated me as I grew a sense of belonging in their classrooms. The small Mathematics and Statistics department welcomed me into their community and the relationships I began in that period became very formative, especially that with Dr. Jimmy Risk. I was learning all the clever ways people bridge theory and application, what is lost and gained along the way, and how to bring meaningful insights into decision-making that impacts people's lives. I felt I had found my place in applied statistics and had been shown there was so much more. Toward graduation, someone suggested applying to a Biostatistics graduate program. After Googling "Biostatistics" and seeking reassurance from my professors, I decided to give it a shot!
 
-![](images/000_0397.JPG)
-
 # Graduate school has revealed the world of Public Health to me
 
 Graduate school has not just been an opportunity to gain technical skill, but to deepen my understanding of myself and my place in the world. I feel incredibly grateful to study in this renowned program, be exposed to brilliant public health work, and see directly where I contribute to it. It has been so rewarding to master what I consider to be the most challenging part of this field: making something useful when it is on some level wrong. I have totally transformed as a student and as a person since completing my undergraduate degree, bright and green.
-
-![](images/000_0573.JPG)
 
 # My next steps into Applied Statistics
 
 My future plans are to work! Since I started this program, I have become very familiar with what I am capable of. My passion is the application of statistics in public health to drive evidence-based decisions and contribute to improved healthcare outcomes. I look forward to entering the industry---applied statistics is fabulous work! I love to see new problems and learn lots of science, and I love to help people. Thoughtful, honest science has been my goal from the beginning and this experience has been an integral part of that achievement.
 
-![](images/000_0512.JPG)
+![Katsuō-ji, north of Osaka, in September](images/000_0397-01.JPG)
+
+## Check out my other pages! Have questions? Want to reach out and connect with me? Please do not hesitate!
+
+![Ruby Beach, on the Washington coast, in November](images/000_0573-01.JPG)
+
+![Tahoma (Mount Rainier) from the University of Washington, in February](images/100_0237.JPG)
+
+![Pike's Place Market on Elliott Bay, in January](images/100_0270.JPG)
