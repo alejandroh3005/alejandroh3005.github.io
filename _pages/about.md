@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Statistician, data scientist, programmer and quantitative scientist."
+title: "Statistician, data scientist, programmer, and quantitative scientist."
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I am a biostatistician and graduate student at the University of Washington, Sea
 
 *Special interests*: Longitudinal and survival analysis, spatial disease mapping, causal inference in observational studies
 
-*Software*: Statistics {R, SAS, Python}, Version control {git}, Database management {SQL}, Data Visualization {Tableau, PowerBI}
+*Software*: Statistics {R, SAS, Python}, Version control {git, GitHub}, Database management {SQL}, Data Visualization {Tableau, PowerBI}
 
 ![](images/100_0287.JPG)
 
@@ -23,14 +23,13 @@ Pursuing an undergraduate degree in Computer Science with a minor in Statistics 
 
 # Graduate school has revealed the world of Public Health to me
 
-Graduate school has not just been an opportunity to gain technical skill, but to deepen my understanding of myself and my place in the world. Focusing on public health throughout graduate school has my eyes to the power of real-world data analysis in addressing pressing health challenges. Working with large, messy datasets from hospitals and observational studies, I learned how to extract meaningful insights that could drive policy decisions and improve patient outcomes and organizational success. My experiences reinforced a passion for using data to make a tangible impact, bridging the gap between statistical theory and real-world applications in healthcare.
+Graduate school has not just been an opportunity to gain technical skill, but to deepen my understanding of myself and my place in the world. Focusing on public health throughout graduate school has opened my eyes to the power of real-world data analysis in addressing pressing health challenges. Working with large, messy datasets from hospitals and observational studies, I learned how to extract meaningful insights that could drive decisions and improve the lives of patients. My experiences have reinforced a passion for using data to make a tangible impact by bridging the gap between statistical theory and real-world application.
 
 # My next steps into Applied Statistics
 
-My future plans are to work! Throughout my journey, I have gained a deep understanding of my strengths and passions. I am excited to apply my skills in public health, using data to drive evidence-based decisions and improve healthcare outcomes. Entering the industry, I look forward to tackling new challenges, learning from diverse scientific fields, and contributing to meaningful research. Applied statistics is incredibly rewarding---I love solving problems, uncovering insights, and ultimately helping people. Thoughtful, honest science has always been my goal, and each experience has been a crucial step toward that mission.
+My future plans are to work! Throughout my journey, I have gained a deep understanding of my strengths and passions. I am eager to apply my skills as I enter the industry, learn from diverse scientific fields, and contribute to meaningful research. Thoughtful, honest science has always been my goal, and each experience has been a crucial step toward that mission.
 
 ## Check out my other pages! Have questions? Want to reach out and connect with me? Please do not hesitate!
-
 
 ![](images/000_0397-01.JPG)
 
@@ -38,7 +37,7 @@ My future plans are to work! Throughout my journey, I have gained a deep underst
 
 ![](images/000_0573-01.JPG)
 
-*Ruby Beach, on the Washington coast, in November*
+*Ruby Beach on the Washington coast, in November*
 
 ![](images/100_0237.JPG)
 
