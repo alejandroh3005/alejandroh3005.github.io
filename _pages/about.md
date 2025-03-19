@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Statistician, data analyst, programmer, and quantitative scientist."
+title: "Statistician, data analyst, programmer and quantitative scientist."
 author_profile: true
 redirect_from: 
   - /about/
