@@ -47,11 +47,6 @@ Experience
   * California State Polytechnic University 
   * _Parallel Machine Learning for Climate Suitability_: Studied crop suitability modeling and precision agriculture through a machine learning model designed to maximize informational entropy, known as MaxEnt. I designed parallel implementations of the MaxEnt algorithm to estimate suitable locations for popular crops in California, given raster maps of climate data. I presented our progress at Cal Poly Pomona's College of Science symposium and the 2022 Southern California Conferences of Undergraduate Research (SCCUR). Developed a specialized iterative learning model with parallel computing design for a unique agriculture classification problem, implemented with GIS software and high-performance computing Python scripts.
   * Supervisor: John Korah, PhD
- 
-* 2022-23: **Teaching Assistant** ▪ 9 months
-  * California State Polytechnic University 
-  * _Introduction to Statistics_: Tutored over 36 undergraduates in introductory statistics, fostering improved comprehension and performance; collaborated with professors to address student needs, offered actionable feedback on curriculum and teaching strategy.
-  * Supervisor: Jimmy Risk, PhD
   
 Skills
 ======
@@ -67,32 +62,18 @@ Skills
 * Graphic design
   * Guiding principles of designing visuals and messaging for a particular audience
   * Strong sense to make information accessible, engaging and honest
-
-
- <!---
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
---->
-
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2022-23: **Teaching Assistant** ▪ 9 months
+  * California State Polytechnic University 
+  * _Introduction to Statistics_: Tutored over 36 undergraduates in introductory statistics, fostering improved comprehension and performance; collaborated with professors to address student needs, offered actionable feedback on curriculum and teaching strategy.
+  * Supervisor: Jimmy Risk, PhD
   
 Service and leadership
 ======
 
-* 2020: **Project Leader, Conference Mentor** ▪ 1 year, 2 months
+* 2021-23: **Project Leader, Conference Mentor** ▪ 2 years
   * Cal Poly Pomona sheCodes 
   * _The_: Introduced two teams of undergraduate peers to AI and ML algorithms in weekly meetings over 8 weeks; mentees completed and presented Python projects. Co-advised middle/high school girls as they learned coding basics and shared my enthusiasm/journey and encouraged them to join STEM careers.
   * Supervisor: Stephanie De Leon
