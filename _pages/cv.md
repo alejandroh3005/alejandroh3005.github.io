@@ -12,16 +12,28 @@ redirect_from:
 Education
 ======
 * **University of Washington**, Seattle WA
-  * M.S. in Biostatistics, expected March 2025
-  * Pathway: Data Science
+  * M.S. in Biostatistics, 2025
+  * Capstone Pathway
 
 * **California State Polytechnic University**, Pomona CA
   * B.S. in Computer Science, 2023
-  * Minor: Statistics
+  * Statistics Minor
   * Summa Cum Laude
 
 Experience
 ======
+
+* 2025: **Statistician** ▪ 3 months
+  * University of Washington
+  * Title: Prevalence of Unsheltered Homelessness across King County, WA
+  * Collaboration with a social scientist to estimate the prevalence of unsheltered homelessness within Washington state. Leveraged novel survey methodology with classic spatial analysis for area-level estimation from small sample sizes. Compared performance of direct estimators to global and local smoothing spatial models.
+  * Supervisor: Zack Almquist, PhD
+
+* 2024-25: **Principal Investigator** ▪ 6 months
+  * Seattle Children’s Hospital
+  * Title: Trends of Mental Health among Substance-Related Pediatric Hospitalizations
+  * Collaborated with a primary care pediatrician and principal data scientist to analyze recent trends in pediatric health. Co-authored a Statistical Analysis Plan of advanced statistical techniques for clustered longitudinal data (e.g., mixed-effect models and interrupted time-series analysis) and conducted comparative analysis between patient demographics. Facilated team discussion and decision-making, spearheaded scientific approach and project planning.
+  * Supervisor: Dwight Barry, PhD
 
 * Summer 2024: **Research Assistant** ▪ 7 months
   * The Mountain-Whisper-Light
