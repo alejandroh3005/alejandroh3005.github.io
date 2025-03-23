@@ -15,11 +15,13 @@ Introduced two teams of undergraduate peers to AI and ML algorithms in weekly me
 Pathfinding Algorithms 🕸 and Gradient Descent 🏔 (2022)
 ======
 
-[Machine Learning Team - Project Page](https://www.cppshecodes.com/slp_2022.html)
+[Machine Learning Team - Project Page](www.cppshecodes.com/slp_2022.html)
 
 Social Network Analysis 🤝 (2021)
 ======
 
-[Artificial Intelligence Team - Project Page](https://www.cppshecodes.com/slp_2021.html)
+[Artificial Intelligence - Project Page](www.cppshecodes.com/slp_2021.html)
+
 [My introduction to AI/ML](https://youtu.be/1jLu9YcEluY)
+
 [My introduction to Graph Analysis](https://youtu.be/kn6PMMnpXE4)
