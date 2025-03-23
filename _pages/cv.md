@@ -25,15 +25,44 @@ Experience
 
 * 2025: **Statistician** ▪ 3 months
   * University of Washington
-  * Title: Prevalence of Unsheltered Homelessness across King County, WA
-  * Collaboration with a social scientist to estimate the prevalence of unsheltered homelessness within Washington state. Leveraged novel survey methodology with classic spatial analysis for area-level estimation from small sample sizes. Compared performance of direct estimators to global and local smoothing spatial models.
+  * _Prevalence of Unsheltered Homelessness across King County, WA_: Collaboration with a social scientist to estimate the prevalence of unsheltered homelessness within Washington state. Leveraged novel survey methodology with classic spatial analysis for area-level estimation from small sample sizes. Compared performance of direct estimators to global and local smoothing spatial models.
   * Supervisor: Zack Almquist, PhD
 
 * 2024-25: **Principal Investigator** ▪ 6 months
   * Seattle Children’s Hospital
-  * Title: Trends of Mental Health among Substance-Related Pediatric Hospitalizations
-  * Collaborated with a primary care pediatrician and principal data scientist to analyze recent trends in pediatric health. Co-authored a Statistical Analysis Plan of advanced statistical techniques for clustered longitudinal data (e.g., mixed-effect models and interrupted time-series analysis) and conducted comparative analysis between patient demographics. Facilated team discussion and decision-making, spearheaded scientific approach and project planning.
+  * _Trends of Mental Health among Substance-Related Pediatric Hospitalizations_: Collaborated with a primary care pediatrician and principal data scientist to analyze recent trends in pediatric health. Co-authored a Statistical Analysis Plan of advanced statistical techniques for clustered longitudinal data (e.g., mixed-effect models and interrupted time-series analysis) and conducted comparative analysis between patient demographics. Facilated team discussion and decision-making, spearheaded scientific approach and project planning.
   * Supervisor: Dwight Barry, PhD
+ 
+* 2024: **Research Assistant** ▪ 7 months
+  * The Mountain-Whisper-Light
+  * _Race and Wrongful Conviction in the United States_: Collaborated with a professional statistician to study factors that contribute to wrongful convictions in the US. Investigated factors through data visualization and (multiple nonlinear) regression of penalty-related outcomes. Analyzed association of race and alleged crime through hypothesis testing of statistical interaction.
+  * Supervisor: Nayak Polissar, PhD
+
+* 2023-24: **Statistician** ▪ 7 months
+  * Department of Biostatistics, University of Washington
+  * _Survey on Social Climate_: Conducted a departmental survey on social climate, summarized qualitative and quantitative data in a comprehensive report and presented findings to administrators. Results brought attention to minority student experience and lead to productive community workshops on cultural diversity and resources guiding student access of mental health services.
+  * Supervisor: Minh Vo
+ 
+* 2022-23: **Research Assistant** ▪ 9 months
+  * California State Polytechnic University 
+  * _Parallel Machine Learning for Climate Suitability_: Developed a specialized iterative learning model with parallel computing design for a unique agriculture classification problem, implemented with GIS software and high-performance computing Python scripts. Oral and poster presentations at two undergraduate research symposiums to demonstrate technical proficiency.
+  * Supervisor: John Korah, PhD
+ 
+* 2022-23: **Teaching Assistant** ▪ 9 months
+  * California State Polytechnic University 
+  * _Introduction to Statistics_: Tutored over 36 undergraduates in introductory statistics, fostering improved comprehension and performance; collaborated with professors to address student needs, offered actionable feedback on curriculum and teaching strategy..
+  * Supervisor: The, PhD
+
+
+
+ 
+* 2020: **The** ▪ 0 months
+  * The 
+  * _The_: The.
+  * Supervisor: The, PhD
+
+
+
 
 * Summer 2024: **Research Assistant** ▪ 7 months
   * The Mountain-Whisper-Light
