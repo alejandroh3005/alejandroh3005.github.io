@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Statistician, data analyst, programmer, and quantitative scientist."
+title: "Statistician, data analyst, programmer and quantitative scientist."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a biostatistician and graduate student at the University of Washington, Seattle, with a background in software engineering and a deep passion for public health. Although my expertise is leveraging clever methods to investigate data and uncover its underlying story, I'm really driven by the people behind the numbers. **I believe good analysis is honest, clear, and rooted in real-world impact.** I look forward to entering the industry---applied statistics is fabulous work! I love to encounter new problems and learn new science, and I love to help people.
+I am a biostatistician and graduate from the University of Washington, Seattle, with a background in software engineering and a deep passion for public health. Although my expertise is leveraging clever methods to investigate data and uncover its underlying story, I'm really driven by the people behind the numbers. **I believe good analysis is honest, clear, and rooted in real-world impact.** I look forward to entering the industry---applied statistics is fabulous work! I love to encounter new problems and learn new science, and I love to help people.
 
 *Special interests*: Longitudinal and survival analysis, spatial disease mapping, causal inference in observational studies
 
 *Software*: Statistics {R, SAS, Python}, Version control {git, GitHub}, Database management {SQL}, Data Visualization {Tableau, PowerBI}
+
+**Interested in my qualifications? View my [portfolio](https://alejandroh3005.github.io/portfolio/) and [CV](https://alejandroh3005.github.io/cv/),  and please reach out via [e-mail](mailto:alejh@uw.edu).**
 
 ![](images/100_0287.JPG)
 
@@ -29,7 +31,7 @@ Graduate school has not just been an opportunity to gain technical skill, but to
 
 My future plans are to work! Throughout my journey, I have gained a deep understanding of my strengths and passions. I am eager to apply my skills as I enter the industry, learn from diverse scientific fields, and contribute to meaningful research. Thoughtful, honest science has always been my goal, and each experience has been a crucial step toward that mission.
 
-## Check out my other pages! Have questions? Want to reach out and connect with me? Please do not hesitate!
+## Have questions? Want to connect with me? Please, do not hesitate!
 
 ![](images/000_0397-01.JPG)
 
