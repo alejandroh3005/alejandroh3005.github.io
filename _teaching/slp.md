@@ -8,9 +8,9 @@ date: 2022-07-01
 location: "Pomona, USA"
 ---
 
-[sheCodes](https://www.cppshecodes.com/index.html#about) is a organization dedicated to teaching women and girls to code. I was a member of Cal Poly Pomona’s ACM-W chapter. We aim to create a community for underrepresented groups within Computer Science by advocating for them both on and off campus. We achieve this mission through our values: community, outreach, and growth.
-
 Introduced two teams of undergraduate peers to AI and ML algorithms in weekly meetings over 8 weeks; mentees completed and presented Python projects. Co-advised middle/high school girls as they learned coding basics and shared my enthusiasm/journey and encouraged them to join STEM careers.
+
+[sheCodes](https://www.cppshecodes.com/index.html#about) is a organization dedicated to teaching women and girls to code. I was a member of Cal Poly Pomona’s ACM-W chapter. We aim to create a community for underrepresented groups within Computer Science by advocating for them both on and off campus. We achieve this mission through our values: community, outreach, and growth.
 
 Pathfinding Algorithms 🕸 and Gradient Descent 🏔 (2022)
 ======
