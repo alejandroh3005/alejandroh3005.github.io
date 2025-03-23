@@ -55,14 +55,21 @@ Experience
   
 Skills
 ======
-* Statistical Modeling
-  * Longitudinal, survival data
-* Programming languages
-  * Statistical analysis: R, SAS, Python
+* Clever number crunching
+  * Models for regression and classification that either emphasize inference (e.g., logistic regression) or optimization (e.g., random forest).
+  * Methods for handling various real-world limitations that complicate data (e.g., effects of clustering/time/space, informative censoring and unmeasured confounders)
+* Talking to computers
+  * Languages: R, SAS, Python, Java
   * Data management: SQL, Power BI
-* Strong public speaking skills with the ability to communicate in a compelling, persuasive and professional manner.
-* Visualization
+  * Computing: computer networks and parallel architecture
+* Talking to people
+  * Strong public speaking skills with the ability to communicate in a compelling, persuasive and professional manner
+* Graphic design
+  * Guiding principles of designing visuals and messaging for a particular audience
+  * Strong sense to make information accessible, engaging and honest
 
+
+ <!---
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -74,7 +81,8 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+--->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -84,8 +92,8 @@ Teaching
 Service and leadership
 ======
 
-* 2020: **The** ▪ 0 months
-  * The 
-  * _The_: The.
-  * Supervisor: The, PhD
+* 2020: **Project Leader, Conference Mentor** ▪ 1 year, 2 months
+  * Cal Poly Pomona sheCodes 
+  * _The_: Introduced two teams of undergraduate peers to AI and ML algorithms in weekly meetings over 8 weeks; mentees completed and presented Python projects. Co-advised middle/high school girls as they learned coding basics and shared my enthusiasm/journey and encouraged them to join STEM careers.
+  * Supervisor: Stephanie De Leon
 
