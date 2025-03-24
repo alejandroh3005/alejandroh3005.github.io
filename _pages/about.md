@@ -13,7 +13,9 @@ I am a biostatistician and graduate from the University of Washington, Seattle, 
 
 *Software*: Statistics {R, SAS, Python}, Version control {git, GitHub}, Database management {SQL}, Data Visualization {Tableau, PowerBI}
 
-**Interested in my qualifications? View my [portfolio](https://alejandroh3005.github.io/portfolio/) and [CV](https://alejandroh3005.github.io/cv/),  and please reach out via [e-mail](mailto:alejh@uw.edu).**
+**Interested in learning more? Read my [interview](https://www.biostat.washington.edu/news/stories/student-profile-alejandro-hernandez) with the University of Washington.
+
+**Interested in my qualifications? View my [portfolio](https://alejandroh3005.github.io/portfolio/) and [CV](https://alejandroh3005.github.io/cv/), and please reach out via [e-mail](mailto:alejh@uw.edu).**
 
 ![](images/100_0287.JPG)
 
