@@ -1,6 +1,10 @@
 ---
 title: "Multidisciplinary Epidemiology"
+<<<<<<< HEAD
 excerpt: "Short-term public health projects<br/><img src='/images/leukemia.png'>"
+=======
+excerpt: "Short-term public health projects<br/><img src='/images/500x300.png'>"
+>>>>>>> 0754466dd927b4372dcd2d92053601f5af529e81
 collection: portfolio
 ---
 
