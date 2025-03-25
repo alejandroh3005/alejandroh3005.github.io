@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a biostatistician and graduate from the University of Washington, Seattle, with a background in software engineering and a deep passion for public health. Although my expertise is leveraging clever methods to investigate data and uncover its underlying story, I'm really driven by the people behind the numbers. **I believe good analysis is honest, clear, and rooted in real-world impact.** I look forward to entering the industry---applied statistics is fabulous work! I love to encounter new problems and learn new science, and I love to help people.
+I am a biostatistician and graduate from the University of Washington, Seattle, with a background in software engineering and a deep passion for public health. Although my expertise is leveraging clever methods to investigate data and uncover its underlying story, I'm really driven by the people behind the numbers. **I believe good analysis is honest, clear, and rooted in real-world impact.** I look forward to entering the industry---applied statistics is fabulous work! I love to encounter new problems and learn new science, and I love to help people. Interested in learning more? Read my [interview](https://www.biostat.washington.edu/news/stories/student-profile-alejandro-hernandez) with the University of Washington.
 
 *Special interests*: Longitudinal and survival analysis, spatial disease mapping, causal inference in observational studies
 
 *Software*: Statistics {R, SAS, Python}, Version control {git, GitHub}, Database management {SQL}, Data Visualization {Tableau, PowerBI}
-
-**Interested in learning more? Read my [interview](https://www.biostat.washington.edu/news/stories/student-profile-alejandro-hernandez) with the University of Washington.
 
 **Interested in my qualifications? View my [portfolio](https://alejandroh3005.github.io/portfolio/) and [CV](https://alejandroh3005.github.io/cv/), and please reach out via [e-mail](mailto:alejh@uw.edu).**
 
