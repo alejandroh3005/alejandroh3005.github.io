@@ -1,6 +1,6 @@
 ---
 title: "modelLong"
-excerpt: "Public R package for longitudinal data<br/><img src='/images/modelLong.png'>"
+excerpt: "R package for longitudinal data<br/><img src='/images/modelLong.png'>"
 collection: portfolio
 ---
 

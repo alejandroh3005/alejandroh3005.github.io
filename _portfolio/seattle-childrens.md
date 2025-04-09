@@ -1,5 +1,5 @@
 ---
-title: "Trends in Mental Health Comorbidities Among Substance-Related Visits to Children’s Hospitals"
+title: "Mental Health and Substance Use within Children’s Hospitals"
 excerpt: "Analysis of the Pediatric Health Information System<br/><img src='/images/capstone.png'>"
 collection: portfolio
 editor_options: 

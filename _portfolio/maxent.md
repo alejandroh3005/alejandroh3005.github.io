@@ -1,6 +1,6 @@
 ---
 title: "MaxEnt"
-excerpt: "Climate Suitability Machine Learning Model<br/><img src='/images/maxent.png'>"
+excerpt: "A parallel machine learning model for climate suitability<br/><img src='/images/maxent.png'>"
 collection: portfolio
 ---
 
