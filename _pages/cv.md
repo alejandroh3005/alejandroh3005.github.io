@@ -30,7 +30,7 @@ Experience
 
 * 2024-25: **Principal Investigator** ▪ 6 months
   * Seattle Children’s Hospital
-  * _Trends of Mental Health among Substance-Related Pediatric Hospitalizations_: Collaborated with a primary care pediatrician and principal data scientist to analyze recent trends in pediatric health. Co-authored a Statistical Analysis Plan of advanced statistical techniques for clustered longitudinal data (e.g., mixed-effect models and interrupted time-series analysis) and conducted comparative analysis between patient demographics. Facilated team discussion and decision-making, spearheaded scientific approach and project planning.
+  * _Trends of Mental Health among Substance-Related Pediatric Hospitalizations_: Collaborated with a primary care pediatrician and principal data scientist to analyze recent trends in pediatric health. Co-authored a Statistical Analysis Plan of advanced statistical techniques for clustered longitudinal data (e.g., mixed-effect models and interrupted time-series analysis) and conducted comparative analysis between patient demographics. Facilitated team discussion and decision-making, spearheaded scientific approach and project planning.
   * Supervisor: Dwight Barry, PhD
  
 * 2024: **Research Assistant** ▪ 7 months
