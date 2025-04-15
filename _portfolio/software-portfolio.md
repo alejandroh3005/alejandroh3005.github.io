@@ -1,7 +1,7 @@
 
 ---
 title: "Software"
-excerpt: "R package for data analysis<br/><img src='/images/modelLong.png'>"
+excerpt: "Packages for statistical programming<br/><img src='/images/modelLong.png'>"
 collection: portfolio
 ---
 
