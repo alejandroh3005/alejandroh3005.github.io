@@ -58,6 +58,8 @@ delivered March 10th, 2025.
 
 ## Acute leukemia, a blood and bone marrow cancer
 
+*Survival analysis with competing risks*
+
 In collaboration with epidemiologists and health specialists, I analyzed
 the survival and relapse of patients following their bone marrow
 transplantation. I translated scientific aims to statistical methods
@@ -89,6 +91,8 @@ between race and alleged crime through hypothesis tests of statistical
 interaction, also known as effect modification.
 
 ## Pulmonary tuberculosis, a bacterial lung infection
+
+*Categorical epidemiology with a complex study design*
 
 I collaborated with three epidemiologists to analyze risk of pulmonary
 tuberculosis from a matched case-control clinical study. I translated
