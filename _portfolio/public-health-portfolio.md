@@ -1,6 +1,6 @@
 ---
 title: "Public Health"
-excerpt: "Public health is the science of protecting and improving the health of people and their communities"<br/><img src='/images/capstone.png'>"
+excerpt: "Public health is the science of protecting and improving the health of people and their communities<br/><img src='/images/capstone.png'>"
 collection: portfolio
 editor_options: 
   markdown: 
